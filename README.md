@@ -1,6 +1,6 @@
 # jwt-cli
 JWT Encoder and Decoder
 
-Unsigned JWTs
-Brute-Force JWTs
-Modify the claims
+1. Unsigned JWTs
+2. Brute-Force JWTs
+3. Modify the claims
